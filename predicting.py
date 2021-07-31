@@ -1,6 +1,5 @@
 import sys
 
-from pyspark.ml.classification import LogisticRegression
 from pyspark.mllib.classification import LogisticRegressionModel
 from pyspark.sql import SparkSession
 from pyspark.ml.feature import VectorAssembler
