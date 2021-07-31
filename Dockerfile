@@ -12,5 +12,6 @@ COPY TrainingDataset.csv ~/cs643/
 WORKDIR ~/CS643/
 
 CMD python training.py
+RUN cd ~/cs643
 ENTRYPOINT ["python","predicting.py"]
 
