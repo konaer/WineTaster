@@ -22,6 +22,8 @@ This is a wine quality prediction ML model in Spark over AWS. The model is train
 * Use **Apache Spark** to train an ML model in parallel on multiple **EC2** instances
 * Use **Spark’s MLlib** to use an ML model in the cloud
 * Use **Docker** to create a container for ML model to simplify model deployment
+* Use **Python** as coding lenguage
+* Use **Linux** as operation system
 
 
 ## Deploy and use
